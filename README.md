@@ -1,2 +1,2 @@
 # appcicd3 - App cicd 3
-> App cicd 3 HELLO
+> App cicd 3
